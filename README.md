@@ -27,13 +27,20 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ---
+### 💻 Learning
 
-### 📊 GitHub stats
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+### 📊 GitHub 
 
 <div align="center">
 
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertomhz01&show_icons=true&theme=gruvbox&hide_border=true&bg_color=fdf6ec&title_color=5c2d0a&text_color=3b2a1a&icon_color=c9a96e)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertomhz01&layout=compact&theme=gruvbox&hide_border=true&bg_color=fdf6ec&title_color=5c2d0a&text_color=3b2a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=albertomhz01&color=blue&style=flat-square)
 ⠀⠀⠀
 
 <!--
