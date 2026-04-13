@@ -2,9 +2,7 @@
 
 # Hi, I'm *Alberto Martínez* 👋
 
-### Computer Science Student & Biotechnology Engineer — where code meets cells.
-
-☕ ☕ ☕ ☕ ☕ ← *daily fuel required*
+### Computer Science PhD Student & Biotechnology Engineer.
 
 </div>
 
@@ -12,7 +10,7 @@
 
 ### 📖 About me
 
-> Driven by the art of both Computer Science and Biotechnology — because why choose one passion when you can have both and zero sleep? Currently applying AI and data analysis to biological and medical problems, with a special love for neuroscience. If the brain were a codebase, I'd be the one reading the docs at 2am. 🧠💻🧬
+> Driven by the art of both Computer Science and Biotechnology, Currently applying AI and data analysis to biological and medical problems, with a special love for neuroscience. 🧠💻🧬
 
 ---
 
