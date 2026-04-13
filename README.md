@@ -36,12 +36,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
-### 📊 GitHub 
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=albertomhz01&color=blue&style=flat-square)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertomhz01&show_icons=true&theme=tokyonight)
 ⠀⠀⠀
 
 <!--
