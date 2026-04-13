@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm *Alberto Martínez* 👋
+# Hi, I'm *Alberto Martínez* 🧑🏻‍💻
 
 ### Computer Science PhD Student & Biotechnology Engineer.
 
@@ -10,7 +10,7 @@
 
 ### 📖 About me
 
-> Driven by the art of both Computer Science and Biotechnology, Currently applying AI and data analysis to biological and medical problems, with a special love for neuroscience. 🧠💻🧬
+> Driven by the art of both Computer Science and Biotechnology, Currently applying AI and data analysis to biological and medical problems, with a special interest in neuroscience. 🧠💻🧬
 
 ---
 
@@ -24,38 +24,12 @@
 
 ---
 
-### 🔬 Current projects & research
-
-| Project | Description |
-|--------|-------------|
-| 🧠 **AI in neuroscience** | Applying deep learning to neural signal analysis and brain-computer interface research |
-| 📊 **Biomedical data analysis** | Using Python & R to extract meaningful patterns from complex biological datasets |
-
----
-
 ### 📊 GitHub stats
 
 <div align="center">
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertomhz01&show_icons=true&theme=gruvbox&hide_border=true&bg_color=fdf6ec&title_color=5c2d0a&text_color=3b2a1a&icon_color=c9a96e)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertomhz01&layout=compact&theme=gruvbox&hide_border=true&bg_color=fdf6ec&title_color=5c2d0a&text_color=3b2a1a)
-
-</div>
-
----
-
-### 📬 Let's connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-albertomhz01-5c2d0a?style=flat-square&logo=github)](https://github.com/albertomhz01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto%20Martínez-c9a96e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertomhz01)
-
----
-
-<div align="center">
-
-*"I can't stop drinking the coffee. If I stop drinking the coffee, I stop doing the things."* — Alberto, probably 🍂
-
-</div>
 ⠀⠀⠀
 
 <!--
