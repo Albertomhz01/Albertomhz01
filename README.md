@@ -10,7 +10,7 @@
 
 ### 📖 About me
 
-> Driven by the art of both Computer Science and Biotechnology, Currently applying AI and data analysis to biological and medical problems, with a special interest in neuroscience. 🧠💻🧬
+> I work in the field of Computer Science and Biotechnology, applying AI and data analysis to biological and medical problems, with a focus on neuroscience. 🧠💻🧬
 
 ---
 
