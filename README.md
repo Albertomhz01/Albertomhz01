@@ -4,6 +4,10 @@
 
 ### Computer Science PhD Student & Biotechnology Engineer.
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=albertomhz01&color=blue&style=flat-square)
+
 </div>
 
 ---
@@ -34,12 +38,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=albertomhz01&color=blue&style=flat-square)
 ⠀⠀⠀
 
 <!--
