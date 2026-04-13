@@ -41,7 +41,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=albertomhz01&color=blue&style=flat-square)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertomhz01&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertomhz01&show_icons=true&theme=tokyonight)
 ⠀⠀⠀
 
 <!--
